@@ -1,0 +1,11 @@
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\bin\Debug\netcoreapp2.0\TurkAppService.deps.json
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\bin\Debug\netcoreapp2.0\TurkAppService.runtimeconfig.json
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\bin\Debug\netcoreapp2.0\TurkAppService.runtimeconfig.dev.json
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\bin\Debug\netcoreapp2.0\TurkAppService.dll
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\obj\Debug\netcoreapp2.0\TurkAppService.csprojResolveAssemblyReference.cache
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\obj\Debug\netcoreapp2.0\TurkAppService.csproj.CoreCompileInputs.cache
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\obj\Debug\netcoreapp2.0\TurkAppService.AssemblyInfoInputs.cache
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\obj\Debug\netcoreapp2.0\TurkAppService.AssemblyInfo.cs
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\bin\Debug\netcoreapp2.0\TurkAppService.pdb
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\obj\Debug\netcoreapp2.0\TurkAppService.dll
+D:\DevStage\TurkApp\TurkAppService\TurkAppService\obj\Debug\netcoreapp2.0\TurkAppService.pdb
